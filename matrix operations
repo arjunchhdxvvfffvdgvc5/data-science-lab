@@ -28,7 +28,7 @@ print(np.trace(ar1))
 output
 ======================
 
-C:\Users\mlm\PycharmProjects\BIBIN\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\BIBIN\arrAMDSTSD.py 
+C:\Users\mlm\PycharmProjects\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\BIBIN\arrAMDSTSD.py 
 [[1 2]
  [5 6]]
 [[2 1]
