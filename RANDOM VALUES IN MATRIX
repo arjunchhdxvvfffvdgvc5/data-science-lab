@@ -18,7 +18,7 @@ print(n.T.flatten())
 
            output
   ==========================
-C:\Users\mlm\PycharmProjects\BIBIN\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\BIBIN\randomarray.py 
+C:\Users\mlm\PycharmProjects\venv\Scripts\python.exe C:\Users\mlm\PycharmProjects\BIBIN\randomarray.py 
 [[6 3]
  [8 5]]
 determinant
